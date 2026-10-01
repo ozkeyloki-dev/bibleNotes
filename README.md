@@ -22,13 +22,15 @@ The notes will have these section
 - Symbols/cultural (symbols/sayings/cultural references that most people would not understand today)
 - People/places (if there are any verses in that chapter that mention people or places)
 - Archeology (if there is physical evidence that supports the event or artifacts in that chapter)
-- References (all references used to write the notes will be listed here)
+- References (references used to write the notes will be listed here)
   
 ### Prophesy   
 
 the most important part of the notes will be the prophesy section. this section will have a list of all the prophesies that are fulfilled in that chapter.
 
 Any prophesy that is fulfilled in the chapter will be listed here with the verse number and a short description of the prophecy. must include the book, chapter, and verse number of the prophecy and the book, chapter, and verse number of the fulfillment. if there are multiple fulfillments, list them all.
+
+make sure to include links to the references and sources and list them at the end of the section (references section). the references will be listed in a separate section at the bottom of the notes.
 
 ## Symbols/cultural
 
@@ -38,15 +40,21 @@ there are saying and symbols that link to other bible verses making the meaning 
 
 if an articles is required for a symbol/saying/cultural reference, it will be linked to that article. the article will have all the information that a bible scholar would need to know about that symbol/saying/cultural reference. the article will also have a list of all the verses that mention that symbol/saying/cultural reference. keep the language simple and easy to understand for the average person studying the bible.
 
+make sure to include links to the references and sources and list them at the end of the section (references section). the references will be listed in a separate section at the bottom of the notes.
+
 ### People and places
 
 any important people or places will be listed here with a short description of the person/place mentioned.
 
 those places or people that are mentioned multiple times in the bile will have their own article and linked to that article. the article will have all the information that a bible scholar would need to know about that person or place. the article will also have a list of all the verses that mention that person or place. keep the language simple and easy to understand for the average person studying the bible.
 
+make sure to include links to the references and sources and list them at the end of the section (references section). the references will be listed in a separate section at the bottom of the notes.
+
 ### Archeology
 
 any archaeological findings that support the events or artifacts mentioned in the chapter will be listed here this will most likely be linked to an article that will have the supporting evidence for the archaeological findings. the article will have all the information that a bible scholar would need to know about that archaeological finding. the article will also have a list of all the verses that mention that archaeological finding. keep the language simple and easy to understand for the average person studying the bible.
+
+make sure to include links to the references and sources and list them at the end of the section (references section). the references will be listed in a separate section at the bottom of the notes.
 
 ### references
 
